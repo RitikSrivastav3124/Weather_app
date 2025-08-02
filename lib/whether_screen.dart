@@ -15,7 +15,7 @@ class WhetherScreen extends StatefulWidget {
 }
 
 class _WhetherScreenState extends State<WhetherScreen> {
-  String cityName = 'Delhi';
+  String cityName = 'Ghaziabad';
 
   @override
   void initState() {
